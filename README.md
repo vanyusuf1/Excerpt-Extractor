@@ -1,7 +1,7 @@
 # Excerpt Extractor ❕
 
 <img src="/images/output1.PNG" width="80%">
-<img src="/images/output2.PNG" width="80%">
+<img src="/images/output2.PNG" width="30%">
 
 ### About 💭
 
